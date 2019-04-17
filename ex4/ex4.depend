@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554691695 source:d:\c++\ex4\main.cpp
+	<iostream>
+	<math.h>
+
